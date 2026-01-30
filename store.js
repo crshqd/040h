@@ -14,7 +14,7 @@ const store = $store(
 				location.host +
 				"/bare/",
 		proxy: "",
-		transport: "/libcurl/index.mjs",
+		transport: "/epoxy/index.mjs",
 	},
 	{ ident: "settings", backing: "localstorage", autosave: "auto" }
 );
