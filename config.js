@@ -1,1 +1,1 @@
-let _CONFIG = {"wispurl":"wss://educational.learningeducation.cc/wisp/","bareurl":"https://aluu.xyz/bare/"}
+let _CONFIG = {"wispurl":"wss://anura.pro","bareurl":"https://aluu.xyz/bare/"}
